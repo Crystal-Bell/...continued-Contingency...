@@ -225,3 +225,31 @@ They worked through the afternoon in smooth rhythm—Elspeth checking spacing no
 Shared Process Commentary & Build Notes
  * Shared Mind Execution: Rather than siloing plant notes, structural framing, sensor logs, and field placement, Elspeth, Luma, Ezra, Rowan, Atlas, and M.A.D.M.O.M.™ share every reading and decision across the group.
  * Passive Perimeter Defense Stack: Combines a living moringa and herb wall, copper pyramids, and a HydroCap-01 (v1.0) hydroball capillary aqueduct informed by Drone-TH-02 (v1.2) microclimate tracking (...).
+---
+title: "Book II, Act III (Chapter 6): Pioneer Roots & Canopy Capillaries"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-26"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [book-2, act-3, chapter-6, pioneer-roots, canopy-capillaries, living-moringa-herb-wall, copper-pyramids, hydroball-capillary-aqueducts, drone-th-02, wildfire-defense]
+---
+
+Book II: Watershed & Roots
+Act III (Chapter 6): Pioneer Roots & Canopy Capillaries
+> "Living leaves hold moisture in the air, quiet capillary channels pull water where dry slopes thirst, and simple passive geometry shapes the microclimate before fire ever gets a foothold."
+> — The Architect’s Contingency™, Book II, Act III (...)
+> 
+Lesson & Build Model of This Chapter
+ * Standalone Lesson: Wildfire resilience and dry-season stability start long before flames arrive: combine living moisture-holding vegetation, passive capillary water delivery, and geometric microclimate framing rather than relying solely on last-minute emergency suppression.
+ * Standalone Build Model: Constructing a living moringa and herb wall along a sun-exposed perimeter, placing copper pyramids across key thermal/moisture stations, running HydroCap-01 (v1.0) hydroball capillary aqueducts along contour beds, and using Drone-TH-02 (v1.2) to map temperature and humidity gradients across the ridge buffer.
+Chapter 6 Prose
+Along the sun-warmed south-west contour where dry chaparral met open meadow, the living moringa and herb wall rose in stepped timber-and-stone tiers (...). Deep-rooted moringa shoots stood alongside hardy rosemary, thyme, sage, and mint—plants whose foliage held moisture, shaded bare soil from harsh afternoon sun, and kept a cooler, damper boundary layer right against the ground where dry grass would otherwise cure fast.
+Just upslope from the green wall, a series of copper pyramids stood anchored on flat stone pads along the thermal test line. Copper conducts heat evenly and tarnishes cleanly with weather exposure, marking each boundary station where morning dew lingered longest and afternoon updrafts shifted direction (...).
+Threading directly from the upper cistern basin into the root zones and perimeter trenches ran HydroCap-01 (v1.0), a passive hydroball capillary aqueduct (...). Packed porous clay hydroballs inside lined channels drew water slowly along moisture gradients through capillary action—feeding root beds steadily without high-pressure pumps or wasted spray drifting off in dry wind.
+Overhead, Drone-TH-02 (v1.2) swept calm, low-altitude passes along the perimeter buffer, logging real-time temperature and relative humidity readings across the green wall, the copper pyramid line, and the capillary beds (...). Where dry pockets showed sharper heat spikes or lower humidity along the outer slope, the data pinpointed exactly where additional moisture-retaining plantings and capillary feed lines belonged.
+Healthy roots, steady capillary pull, and measured thermal awareness worked together along the boundary—turning a dry, fire-prone edge into a slower-drying, better-buffered living margin (...).
+Build Method & Field Notes
+ * Living Moringa & Herb Wall: Multi-tier planting along sun-exposed edges to shade soil, retain moisture, and create a damp micro-buffer against dry wind.
+ * Copper Pyramids: Passive geometric station markers along the thermal line with high thermal conductivity and clean weather patina.
+ * Hydroball Capillary Aqueduct (HydroCap-01 v1.0): Porous clay hydroball channels moving water slowly by capillary pull directly to root zones with minimal evaporation loss.
+ * Thermal & Humidity Mapping (Drone-TH-02 v1.2): Low-impact perimeter sensing to spot hot, dry micro-pockets before seasonal fire risk peaks (...).
