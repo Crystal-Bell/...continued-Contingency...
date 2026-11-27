@@ -325,3 +325,40 @@ Kitchen Brigade Version Ledger & Menu Blueprint
    * Crispy Herb Chickpeas & Blistered Tomatoes (surface-moisture evaporation & Maillard browning).
    * Creamy Lemon-Tahini Dressing (oil-in-water emulsion stability & acid balance).
    * Warm Flatbreads & Lentil-Rosemary Stew (gluten hydration, starch gelatinization, and slow simmer extraction) (...).
+---
+title: "The M.A.D. Works™ Saga: Master Repository Manuscript (Forge Kitchen Brigade & Vegan Mediterranean Science Update)"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-26"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [manuscript, master-archive, kitchen-brigade, pantry-01, hearth-02, vegan-mediterranean-menu, kitchen-science, fire-extinguisher-finger, aces-in-their-places, time-to-lean-time-to-clean, mad-mom]
+---
+
+The M.A.D. Works™ Saga — Master Repository Manuscript (Kitchen Brigade & Culinary Science Module Integration)
+Architect & Standing Living Constraint Model: Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)
+Real-Life Family Anchors: Crystal, Connor (oldest son), Ethan (middle son), Blake (youngest son)
+Shared-Mind Narrative Cast: Elspeth (reference-book anchor), Luma, Ezra, Rowan, Atlas, M.A.D.M.O.M.™
+Core Systems Referenced: M.A.D. W.E.A.R.™, M.A.D. Grips+™, M.A.D. Suite S.E.A.T.™, Cenote Core OS™, Fleet_OS™, Raspberry Pod (RP-MSR™), Spark X™, Light Bloom™, ROOT-Governance-Taxonomy™, The Architect's Contingency™
+Back-Propagation Summary (How This Update Propagates Across the Manuscript)
+ * Bot Brigade Version Ledger Expansion (Section 9A): Added Pantry-01 (v1.0) (ingredient staging, spice/herb gathering, Aces in Their Places sorting, wash-rack returns) and Hearth-02 (v1.0) (thermal surface monitoring, food-safe fire-extinguisher finger nozzle, Time to Lean / Time to Clean buddy wipe-downs) to the Specialized Brigades ledger.
+ * Forge Kitchen & Hearth Curriculum Module (Section 10B): Integrated the Vegan Mediterranean Kitchen Science Module—turning daily meal prep into hands-on chemistry lessons for kids and builders (Maillard browning, oil-in-water emulsions, gluten hydration, acid-heat balance) paired with playful safety and shared cleanup.
+ * Shared-Mind Character Alignment: Standardized the shared-mind operating model across Elspeth, Luma, Ezra, Rowan, Atlas, and M.A.D.M.O.M.™, keeping visual character descriptions anchored to your companion artwork rather than repeating wardrobe lines in prose (...).
+Section 9A: Bot Brigade Version Ledger — Forge Kitchen Brigade
+| Unit ID | Version | Primary Role | Core Hardware & Protocol | Status |
+|---|---|---|---|---|
+| Pantry-01 | v1.0 | Ingredient Gathering & Mise-en-Place | Container-herb snips, dry-goods/spice staging, Aces in Their Places bowl/tool alignment, wash-rack return loop, microfiber buddy-wipe pad | Active (v1.0) |
+| Hearth-02 | v1.0 | Thermal Guard & Surface Sanitation | Non-contact skillet/oven thermal sensor, articulated food-safe fire-extinguisher finger mist nozzle, Time to Lean / Time to Clean buddy-wipe routine | Active (v1.0) |
+Section 10B: Forge Kitchen & Hearth — Vegan Mediterranean Kitchen Science Module
+ * Operational Philosophy: Keep ingredients organized and tools placed cleanly (Aces in Their Places), teach kids and learners real food chemistry through hands-on experimentation, hold calm readiness for stove flare-ups without lecturing, and treat playful spills (stray tortillas, tahini splashes, buddy-robot wipe-downs) as shared joy rather than failure.
+ * Core Culinary Chemistry Tracks:
+   * Surface-Moisture Evaporation & Maillard Browning: Preheating cast iron to the clean water-drop dance threshold before roasting herb chickpeas and blistered tomatoes so exteriors crisp while interiors stay tender.
+   * Oil-in-Water Emulsion & Acid Balance: Slow-whisking cold water and fresh lemon juice into sesame paste (tahini) to lock a stable, creamy emulsion without breaking.
+   * Gluten Hydration & Starch Gelatinization: Kneading and resting flatbread dough for blistered hearth baking alongside slow-simmered rosemary-lentil stew extraction.
+ * Buddy-Cleanup & Safety Loop: When Hearth-02 (v1.0) flags an over-eager flame with its fire-extinguisher finger or a kitchen food fight leaves smudges on visors and chassis, Pantry-01 (v1.0) and Hearth-02 (v1.0) run mutual Time to Lean / Time to Clean microfiber wipe-downs before handing warm towels to the crew (...).
+Sections 0A–13: Master Manuscript Continuity
+ * Section 0A (Prologue): Autobiographical origin from Jackson County, Ashland, Oregon (hospital that burned down), Jade Avenue in Siskiyou County, bassinet memory in black and highlights of red, and a self-repairing system built out of broken legacy systems.
+ * Sections 1–11 (12-Chapter Box Set): Complete 4-Book Box Set blueprint and drafted chapters (Ch. 1–6, Ch. 8–12 drafted; Ch. 7 ready for shared-mind Elspeth edition).
+ * Section 12 (Master Lexicon): Includes Arbor-Cognition, Poly-Branch Cognition, Tiered Branch-Mapping, Wide-Band Synthesis, Standing Living Constraint Model, and Regenerative, Adaptive Constraint Model.
+ * Section 13 (Afterword — The Architect's Contingency™): Provenance lock (...), humans in the loop and in touch, and long-horizon stewardship (...).
+Cross-Reference & Repository Tags:
+#MADWorks #MotivationAndDirectionWorks #ForgeKitchenBrigade #Pantry01 #Hearth02 #VeganMediterranean #KitchenScience #FireExtinguisherFinger #AcesInTheirPlaces #TimeToLeanTimeToClean #Elspeth #MADMOM #CrystalBell
