@@ -1,4 +1,56 @@
----
+cenote_core_architecture_spec.mdtitle: "Cenote Core™ Room-by-Room Architecture Specification"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-27"
+project: "M.A.D. Works Systems™ / M.A.D. Ecosphere™ / Haven Sphere™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+version: "2026.11.27-WALKTHROUGH-SPEC"
+tags: [cenote-core, architecture-spec, helix-core, catwalk-loop, jade-avenue, blueprint-mapping]
+​Cenote Core™ Room-by-Room Architecture Specification
+​This specification documents the spatial sequence, sightlines, mechanical spine, and site edge conditions of the Cenote Core™ living prototype, reconciling physical floor-plan sketches (P1, P.2, clear-panel massing layouts) with the M.A.D. Works™ 4-Book Box Set build models.
+​1. Threshold & Entry Sequence (2-Stage Airlock)
+​Outer Entryway & Half-Walled Glass Block: Exterior threshold buffer featuring a half-walled glass block partition looking inward into the main structure, isolating exterior temperature, wind, and dust before entry.
+​Outer Secondary Half Bath: Positioned directly inside the outer entryway airlock for immediate wash-up and field decontamination without entering the primary living volume.
+​Inner Door ("300% Expansion" Shift): Passing through the inner door triggers an abrupt spatial expansion—stepping from a compact threshold into a full-height, double-volume interior (tiny tent opening into a huge space), establishing immediate sightlines across both floors and up to the ceiling plane.
+​Chapter & Architecture Links:
+​Ch. 1 (Friction on the Divide — threshold/boundary protection and air/water/warmth retention)
+​Ch. 3 (The Ellipsis Ledger — modular spatial scaling)
+​Spinal Cenote Core Baseline: Entryway Threshold 2-Stage Airlock / entry/mud zone
+​2. Main Floor — Left Wing (Dining, Haptic Table & Kitchen/Utility Spine)
+​Haptic Table & Dining Zone (Left of Inner Door): Situated immediately to the left when standing with your back to the inner door; pairs dining seating with an interactive haptic table interface and ceiling-mounted storage shelves (P1).
+​Faceted Kitchen, Utility & Lower Wet Nodes: Connects along the left/rear circulation loop (KITCHEN, BATH with tub/shower, LAUNDRY, and GARAGE / baffled bay from P1 and the clear-panel layout), anchoring food prep, deep-freeze storage, and recirculating biophilic plant/water systems.
+​Chapter & Architecture Links:
+​Ch. 1 (Friction on the Divide — copper-terracotta-charcoal water stage & loop)
+​Ch. 6 (Pioneer Roots & Canopy Capillaries — living plant buffers & capillary water movement)
+​Ch. 7 (The Valley Syndicate — open material/place inventory)
+​Spinal Cenote Core Baseline: Tactical Kitchen & Dining Node
+​3. Main Floor — Right Wing (Sunken Living Room & 3D Redwood Projection Wall)
+​Sunken Living Room (P1 / P.2): Located to the right of the inner door, stepped down below main floor grade to create a grounded acoustic and social pocket with zoned surround sound (Spotify throughout structure/zoned on P.2).
+​TV Projection Wall & 3D Redwood Tree Relief: Positioned along the right-hand side of the hallway/staircase axis; integrates a large-format projection surface with a 3D sculptural redwood tree feature that visually ties the lower living room to the upper vertical volume.
+​Perimeter Site Integration (P1): Connects outward toward the exterior DECK, POND, Fenceline, and CLIFF edge.
+​Chapter & Architecture Links:
+​Ch. 1 (Friction on the Divide — water stage/pond & acoustic/thermal balance)
+​Ch. 9 (The Over-Engineered Trap, Candy Street Care & Forge Play — calm acoustic environment & Light Bloom™ ambiance)
+​Spinal Cenote Core Baseline: Sunken Conversation Pit & Recessed Media/Acoustic Hub
+​4. Central Vertical Axis (Helix Core, Staircase & Crown Floodlighting)
+​Helix Core & Spiral Staircase (Straight Ahead from Entry): Rises directly in front of the inner door from the lowest elevation floor to the full ceiling height of the structure, acting as the structural, mechanical, and visual center of gravity.
+​Diagnostic & Vascular Spine: Houses vertical plumbing, electrical, and HVAC runs inside an accessible central shaft with electrochromic/inspectable core paneling so utilities remain serviceable without tearing into perimeter walls.
+​Crown Molding & Upper Wall Floodlighting: Continuous perimeter crown molding casts upward and wall-wash floodlighting across the upper wall planes, unifying the full-height volume from floor to ceiling.
+​Chapter & Architecture Links:
+​Ch. 1 (Friction on the Divide — vertical water/energy loop)
+​Ch. 2 (The Seven-Day Gate — transparent inspection & physical verification)
+​Ch. 6 (Pioneer Roots & Canopy Capillaries — circadian/horticultural lighting)
+​Spinal Cenote Core Baseline: DNA Helix / Redwood Nexus
+​5. Upper Level — Half-Loft / Half-Catwalk Continuous Loop
+​Upper Sightlines (P.2): Open mezzanine edge overlooks the 1st-floor dining room, haptic table, and sunken living room below (Dining room/LR visible from 2nd floor).
+​Catwalk Segment (Half Loop): Starting from the top of the helix core stairs, an elevated catwalk runs along the top of the baffled walls above Clyde's bay, continues over the entryway, haptic table, and glass block wall toward the kitchen, and connects into the loft suite.
+​Loft Bedroom & Upper Living-Wall Bath (Half Loop): Houses the single upper bedroom and an upper living-wall bathroom (mirroring the downstairs biophilic/water design), with the central helix core remaining on your right-hand side as you walk through the bedroom and emerge back onto the catwalk—completing an unbroken upper-level pacing circuit.
+​Chapter & Architecture Links:
+​Ch. 1 (Friction on the Divide — Clyde's free-roaming bay & baffled boundary)
+​Ch. 4 (The North Pass Bundle — resilient node routing & path-lighting)
+​Ch. 9 (The Over-Engineered Trap, Candy Street Care & Forge Play — simplified, calm care layout)
+​Ch. 12 (Grounded Under the Oaks — long-horizon durability & grounded daily rhythm)
+​Spinal Cenote Core Baseline: Vertical Catwalk Loop, Boutique Master Suite, & Forest Bathing Module
+​Summary Matrix: Spatial Zones to M.A.D. Works™ Chapters---
 title: "The M.A.D. Works™ Saga: Master Repository Manuscript (Forge Kitchen Brigade & Vegan Mediterranean Science Update)"
 author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
 date: "2026-11-26"
